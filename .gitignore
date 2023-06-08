@@ -42,3 +42,6 @@ venv/
 !.elasticbeanstalk/*.global.yml
 set_env.sh
 .env
+udagram-deployment/aws-secret.yaml
+udagram-deployment/env-configmap.yaml
+udagram-deployment/env-secret.yaml
